@@ -1,0 +1,2 @@
+Consume 4 methods on req
+create different routes that can handle Server
